@@ -1,1 +1,1 @@
-1st Project of Decodelabs for Python Programming Intern .
+Repository for task 1
